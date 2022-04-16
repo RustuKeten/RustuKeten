@@ -35,3 +35,9 @@ sass visual-studio vs-code git bash gitHub
 my github stats  my commit status
 
 languages
+
+🚀 Skills
+
+AWS DevOps Linux kubernetes docker Terraform Ansible Jira python 
+
+git gitHub vs-code  
