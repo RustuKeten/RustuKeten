@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Frontend Developer
 👯 I’m looking to collaborate on Clarusway
 💬 Ask me about whatever you want.
-Linkedin: VPA website website website website
+Linkedin: (https://www.linkedin.com/in/rustuketen/)
 
 Rustu Keten
 
