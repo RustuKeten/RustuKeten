@@ -17,7 +17,7 @@
   Hi,I'm Rustu Keten,Fullstack Developer from Ankara,Turkiye.
   <br>
   <br>
-  🔎 I am currentlyworking as a Fullstack Developer at HEIMATLAS Co.
+  🔎 I've been currently working as a Fullstack Developer at HEIMATLAS Co since Aug/2022.
   <br>
   🔖 I graduated from Anadolu University.
   <br>
