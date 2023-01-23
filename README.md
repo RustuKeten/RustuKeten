@@ -17,13 +17,13 @@
   Hi,I'm Rustu Keten,Fullstack Developer from Ankara,Turkiye.
   <br>
   <br>
-  🔎 I am currently training for Fullstack Developer at Clarusway
+  🔎 I am currentlyworking as a Fullstack Developer at HEIMATLAS Co.
   <br>
   🔖 I graduated from Anadolu University.
   <br>
   💻 I love writing code and learn new things.
   <br>
-  📚 I'm currently learning JAVASCRİPT,REACT,HTML,CSS,Python,Django.
+  📚 I'm currently using REACT/Next.js on Frontend, Nest.js on Backend and learning TypeORM and TypeScript.
   <br>
   💭 Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
   <br>
