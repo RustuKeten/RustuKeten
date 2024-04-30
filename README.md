@@ -17,7 +17,7 @@
   Hi,I'm Rustu Keten,Fullstack Developer from Ankara,Turkiye.
   <br>
   <br>
-  🔎 I've been currently working as a Fullstack Developer at Flatiron Software Co since Aug/2022.
+  🔎 I've been currently working as a Fullstack Developer at Flatiron Software Co since 2022.
   <br>
   🔖 I graduated from Anadolu University.
   <br>
